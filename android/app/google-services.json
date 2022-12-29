@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332103694730",
+    "project_id": "ihvan-kardesler-ae5f6",
+    "storage_bucket": "ihvan-kardesler-ae5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332103694730:android:6f92f9f061cabd5b2e7073",
+        "android_client_info": {
+          "package_name": "com.hozdemir1968.ihvan_kardesler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332103694730-ab2phvc03bgdvbqu0oiv54tobsbcj9sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlayT4DkRS42rAbVW9pDPrOJq1QCkptHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332103694730-ab2phvc03bgdvbqu0oiv54tobsbcj9sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
